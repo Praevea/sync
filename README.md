@@ -2,4 +2,10 @@
 
 ---
 
-The Sync App
+The Sync App. 
+A modern third-party data synchronization platform for pushing [Protel] accounting data to [Bexio].
+Will require an active sync pro subscription or activation license at some point in the future.
+
+| UI Prototype |
+| --- |
+| soon |
