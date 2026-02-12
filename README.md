@@ -8,7 +8,7 @@ Will require an active sync pro subscription or activation license at some point
 
 | Screenshot |
 | --- |
-| soon |
+| <img width="1558" height="1061" alt="image" src="https://github.com/user-attachments/assets/9f3f8656-a87c-44c1-94d0-1253f0f7f98b" /> |
 
 ## Features
 
